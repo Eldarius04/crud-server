@@ -1,0 +1,13 @@
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml.*
+
+# IDE
+.idea/
+*.iml
+
+# System
+.DS_Store
